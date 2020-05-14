@@ -232,7 +232,7 @@ var franchiseStores = L.geoJSON(null, {
 //      + feature.properties.URL + "' target='_blank'>" 
 //      + feature.properties.URL + "</a></td></tr>" 
         
-    + '<tr><th colspan="2" style="font-size: large;"><img width=100% src="../assets/img/TTStore.jpg"/></th></tr>'
+     + '<tr><th colspan="2" style="font-size: large;"><img width=100% src="assets/img/TTStore.jpg"/></th></tr>'
 
       + "<table>";
         
